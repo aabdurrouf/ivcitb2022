@@ -48,12 +48,14 @@ cd ivcitb2022
 ```
 cd CEERS
 ```
-* Step1
-* Step2
+* Step1_checking_cropping_and_color_images.ipynb
+* Step2_sources_detection_and_aperture_photometry_crop1.ipynb
+* Step2_sources_detection_and_aperture_photometry_crop2.ipynb
 ```
 cd eazy_photoz
 ```
-* Step3
+* Step3_measuring_photometric_redshifts_crop1.ipynb
+* Step3_measuring_photometric_redshifts_crop2.ipynb
 ```
 cd ../piXedfit_sedfit
 ```
