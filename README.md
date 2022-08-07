@@ -23,10 +23,10 @@ You can download the data from the above links or alternatively, you can follow 
 The tutorials are all written in Python and can be conveniently run on the jupyter notebook platform. Before running the codes, you need to install the following softwares
 * Python 3.5 or later
 * [jupyter notebook](https://jupyter.org/)
-* Basic Python packages for astronomy: [NumPy](https://numpy.org/), [Astropy](https://www.astropy.org/), [matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/), [pysao](https://pypi.org/project/pysao/)
-* Photometric analysis packages: [Photutils](https://photutils.readthedocs.io/en/stable/) and [SEP](https://sep.readthedocs.io/en/v1.0.x/index.html) Source Extractor ([Bertin & Arnouts 1996](https://ui.adsabs.harvard.edu/abs/1996A%26AS..117..393B/abstract))
-* Photometric redshift tool [EAZY](https://github.com/gbrammer/eazy-photoz) ([Brammer, van Dokkum & Coppi (2008)](https://ui.adsabs.harvard.edu/abs/2008ApJ...686.1503B/abstract))
-* SED fitting tool [piXedfit](https://pixedfit.readthedocs.io/en/latest/)
+* Basic Python packages for astronomy: [NumPy](https://numpy.org/), [Astropy](https://www.astropy.org/), [matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/), [pysao](https://pypi.org/project/pysao/). These packages are easy to be installed using pip or conda. 
+* Photometric analysis packages: [Photutils](https://photutils.readthedocs.io/en/stable/) and [SEP](https://sep.readthedocs.io/en/v1.0.x/index.html) Source Extractor ([Bertin & Arnouts 1996](https://ui.adsabs.harvard.edu/abs/1996A%26AS..117..393B/abstract)). These packages are also easy to be installed. Please follow the installation procedure in their webistes.
+* Photometric redshift tool [EAZY](https://github.com/gbrammer/eazy-photoz) ([Brammer, van Dokkum & Coppi (2008)](https://ui.adsabs.harvard.edu/abs/2008ApJ...686.1503B/abstract)). Please follow the installation instruction in the EAZY's GitHub page. 
+* SED fitting tool [piXedfit](https://pixedfit.readthedocs.io/en/latest/). Please follow the installation procedure at https://pixedfit.readthedocs.io/en/latest/install.html
 
 ### Download the Required Data
 Please follow the instructions below
@@ -35,7 +35,12 @@ Please follow the instructions below
 cd <desired_dir>
 git clone https://github.com/aabdurrouf/ivcitb2022.git
 ```
-* Download PSF matching kernels from and put the files into ivcitb2022/kernels/ 
+* Download PSF matching **kernels** from https://drive.google.com/drive/folders/1JrbPmVDZKyRE7P0pyrKc6xO_pM92vIdP?usp=sharing and put the files into `ivcitb2022/kernels/` directory
+* Download CEERS simulated NIRCam Images from https://drive.google.com/drive/folders/1kvfzVsq31sxmMRlYgaOYy7MrgVBESvA2?usp=sharing and put the files into `ivcitb2022/CEERS/` directory
+* Download JWST and HST images of SMACS 0723 from https://drive.google.com/drive/folders/16EkNUrGAEZm4rwGrLUjMQBQOxtmle8w5?usp=sharing and put them into into `ivcitb2022/ERO_SMACS0723/` directory
+
+## Running Through the Tutorials
+
 
 
 
