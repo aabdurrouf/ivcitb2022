@@ -73,7 +73,7 @@ cd ../piXedfit_sedfit
 ```
 
 # Contributors
-* [Abdurro'uf](https://aabdurrouf.github.io/) - Email: fabdurr1@jhu.edu 
+* [Abdurro'uf](https://aabdurrouf.github.io/) - For any inquiry, please send email to fabdurr1@jhu.edu 
 * [Takahiro Morishita](https://github.com/mtakahiro)
 
 
