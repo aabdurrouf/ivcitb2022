@@ -10,7 +10,7 @@ In this tutorial, we will learn the following skills
 * Aperture photometry and extracting spectral energy distributions (SEDs) of the galaxies
 * Photometric redshift measurement
 * SED fitting for measuring the stellar population properties of galaxies
-* **Optional**: Dissecting spatially resolved properties of galaxies
+* **Optional**: Dissecting spatially resolved properties of galaxies with [piXedfit](https://pixedfit.readthedocs.io/en/latest/)
 
 ## Data Resources
 * Simulated JWST NIRCam imaging data from the [Cosmic Evolution Early Release Science (CEERS)](https://ceers.github.io/) survey. The data that we will analyze are available in the CEERS's webiste [here](https://ceers.github.io/sdr3.html#nircam-imaging-one)
@@ -25,8 +25,17 @@ The tutorials are all written in Python and can be conveniently run on the jupyt
 * [jupyter notebook](https://jupyter.org/)
 * Basic Python packages for astronomy: [NumPy](https://numpy.org/), [Astropy](https://www.astropy.org/), [matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/), [pysao](https://pypi.org/project/pysao/)
 * Photometric analysis packages: [Photutils](https://photutils.readthedocs.io/en/stable/) and [SEP](https://sep.readthedocs.io/en/v1.0.x/index.html) Source Extractor ([Bertin & Arnouts 1996](https://ui.adsabs.harvard.edu/abs/1996A%26AS..117..393B/abstract))
+* Photometric redshift tool [EAZY](https://github.com/gbrammer/eazy-photoz) ([Brammer, van Dokkum & Coppi (2008)](https://ui.adsabs.harvard.edu/abs/2008ApJ...686.1503B/abstract))
+* SED fitting tool [piXedfit](https://pixedfit.readthedocs.io/en/latest/)
 
-### Download the Data
+### Download the Required Data
+Please follow the instructions below
+* Clone this GitHub repository to your local computer
+```
+cd <desired_dir>
+git clone 
+```
+*  
 
 
-## Some References
+
