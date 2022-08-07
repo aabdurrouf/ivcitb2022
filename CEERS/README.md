@@ -1,3 +1,11 @@
 # CEERS simulated JWST/NIRCam Images
 
-Please download required data from https://drive.google.com/drive/folders/1kvfzVsq31sxmMRlYgaOYy7MrgVBESvA2?usp=sharing and put them in this folder
+![image1](rgb_crop1.png)
+![image1](rgb_crop2.png)
+
+
+Please download data.tar.gz from https://drive.google.com/file/d/1Fc8PRTzhlqIrPac63OeFlUVAoOViyTbk/view?usp=sharing and extract it here
+
+```
+tar -xzvf data.tar.gz
+```
