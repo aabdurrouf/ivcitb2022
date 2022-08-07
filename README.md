@@ -40,6 +40,37 @@ git clone https://github.com/aabdurrouf/ivcitb2022.git
 * Download JWST and HST images of SMACS 0723 from https://drive.google.com/drive/folders/16EkNUrGAEZm4rwGrLUjMQBQOxtmle8w5?usp=sharing and put them into into `ivcitb2022/ERO_SMACS0723/` directory
 
 ## Running Through the Tutorials
+The tutorials can be conveniently run in the following order
+```
+cd ivcitb2022
+```
+### Analysis of simulated CEERS NIRCam Images
+```
+cd CEERS
+```
+* Step1
+* Step2
+```
+cd eazy_photoz
+```
+* Step3
+```
+cd ../piXedfit_sedfit
+```
+
+### Analysis of JWST ERO data SMACS 0723
+```
+cd ../../ERO_SMACS0723
+```
+* Step1
+* Step2
+```
+cd eazy_photoz
+```
+* Step3
+```
+cd ../piXedfit_sedfit
+```
 
 
 
