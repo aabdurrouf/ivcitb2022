@@ -20,6 +20,10 @@ You can download the data from the above links or alternatively, you can follow 
 
 ## Preparations
 ### Software Dependencies and Installation
+The tutorials are all written in Python and can be conveniently run on the jupyter notebook platform. Before running the codes, you need to install the following softwares
+* Python 3.5 or later
+* [jupyter notebook](https://jupyter.org/)
+* Basic Python packages for astronomy: [NumPy](https://numpy.org/), [Astropy](https://www.astropy.org/), [matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/)
 
 ### Download the Data
 
