@@ -14,7 +14,7 @@ In this tutorial, we will learn the following skills
 
 ## Data Resources
 * Simulated JWST NIRCam imaging data from the [Cosmic Evolution Early Release Science (CEERS)](https://ceers.github.io/) survey. The data that we will analyze are available in the CEERS's webiste [here](https://ceers.github.io/sdr3.html#nircam-imaging-one)
-* First data from the JWST Early Release Observations (ERO) on [SMACS 0723 cluster](https://www.nasa.gov/webbfirstimages). For this tutorial, we will be using the JWST and HST processed data product on SMACS 0723 cluster that are produced using [grizli](https://github.com/gbrammer/grizli) and publicly available on https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/image_index.html
+* First data from the JWST Early Release Observations (ERO) on [SMACS 0723 cluster](https://www.nasa.gov/webbfirstimages). For this tutorial, we will be using the JWST and HST processed data product on SMACS 0723 cluster that are produced by [Gabriel Brammer](https://gbrammer.github.io/) using [grizli](https://github.com/gbrammer/grizli) and publicly available on https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/image_index.html
 
 You can download the data from the above links or alternatively, you can follow the instructions below and download the required data from the google drive links that are listed there.   
 
@@ -72,6 +72,8 @@ cd eazy_photoz
 cd ../piXedfit_sedfit
 ```
 
-
+# Contributors
+* [Abdurro'uf](https://aabdurrouf.github.io/) - Email: fabdurr1@jhu.edu 
+* [Takahiro Morishita](https://github.com/mtakahiro)
 
 
