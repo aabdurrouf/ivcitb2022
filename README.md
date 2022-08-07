@@ -33,9 +33,9 @@ Please follow the instructions below
 * Clone this GitHub repository to your local computer
 ```
 cd <desired_dir>
-git clone 
+git clone https://github.com/aabdurrouf/ivcitb2022.git
 ```
-*  
+* Download PSF matching kernels from and put the files into ivcitb2022/kernels/ 
 
 
 
