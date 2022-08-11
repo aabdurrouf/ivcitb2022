@@ -1,3 +1,4 @@
-# Perform SED fitting using piXedfit
+# Perform SED fitting using piXedfit to derive global properties of galaxies
 
-(**Working in progress!**)
+
+Please download HDF5 file containing model spectra from this link, then put it inside `models` directory. 
