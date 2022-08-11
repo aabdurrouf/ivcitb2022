@@ -28,7 +28,7 @@ USE_TEMPLATE_CACHE   n                  # Load in template cache
 CACHE_FILE           photz1.tempfilt     # Template cache file (in OUTPUT_DIRECTORY)
 
 ## Input Files
-CATALOG_FILE         ceers_obj_crop1.cat # Catalog data file
+CATALOG_FILE         ceers_eazy_input_crop1.cat # Catalog data file
 MAGNITUDES           n                  # Catalog photometry in magnitudes rather than f_nu fluxes
 NOT_OBS_THRESHOLD    -90                # Ignore flux point if <NOT_OBS_THRESH
 N_MIN_COLORS         5                  # Require N_MIN_COLORS to fit
