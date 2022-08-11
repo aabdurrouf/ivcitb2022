@@ -23,7 +23,7 @@ USE_TEMPLATE_CACHE   0                  # Load in template cache
 CACHE_FILE           photz1.tempfilt    # Template cache file (in OUTPUT_DIRECTORY)
 
 ## Input Files
-CATALOG_FILE         ceers_obj_crop1.cat # Catalog data file
+CATALOG_FILE         ceers_eazy_input_crop1.cat # Catalog data file
 MAGNITUDES           0                  # Catalog photometry in magnitudes rather than f_nu fluxes
 NOT_OBS_THRESHOLD    -90.000            # Ignore flux point if <NOT_OBS_THRESH
 N_MIN_COLORS         5                  # Require N_MIN_COLORS to fit
@@ -100,4 +100,4 @@ OMEGA_L              0.700              # Omega_lambda
 #  Template 8: templates/Dusty/c09_del_8.6_z_0.019_chab_age09.40_av2.0.dat
 #     1.000000   0.000000   1.000000
 # EAZY 2015-05-08
-# Took 10 seconds.
+# Took 16 seconds.
