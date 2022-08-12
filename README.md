@@ -44,7 +44,7 @@ The tutorials can be conveniently run in the following order
 ```
 cd ivcitb2022
 ```
-### Analysis of simulated CEERS NIRCam Images
+### Analysis of simulated NIRCam Images from CEERS survey
 ```
 cd CEERS
 ```
