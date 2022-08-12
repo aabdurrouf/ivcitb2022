@@ -59,6 +59,7 @@ cd eazy_photoz
 ```
 cd ../piXedfit_sedfit
 ```
+* Step4_SEDfitting_with_piXedfit_derive_global_properties.ipynb
 
 ### Analysis of JWST ERO data SMACS 0723
 ```
