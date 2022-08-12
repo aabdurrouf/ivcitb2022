@@ -1,5 +1,5 @@
 ; s[0:4] = NFILT NTEMP NZ NOBJ
-; 6 8 263 485
+; 6 8 263 488
 ; Read with IDL:
 ; Template & catalog fluxes
  openr,lun,'OUTPUT/photz1.tempfilt',/swap_if_big_endian,/get_lun
