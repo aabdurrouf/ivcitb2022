@@ -1,3 +1,6 @@
+wget https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/smacs0723_phot_apcorr.fits
+wget https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/smacs0723.eazypy.zout.fits
+
 wget https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/smacs0723-f435w_drc_sci.fits
 wget https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/smacs0723-f435w_drc_wht.fits
 wget https://s3.amazonaws.com/grizli-v2/SMACS0723/Test/smacs0723-f606w_drc_sci.fits
