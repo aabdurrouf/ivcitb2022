@@ -63,8 +63,7 @@ cd ../piXedfit_sedfit
 
 ### Analysis of JWST ERO data SMACS 0723
 
-* Step1_check_images_and_catalogs.ipynb
-* Step2_PSF_matching_and_make_cutout_images.ipynb
+* Analysis_ERO_SMACS0723.ipynb
 
 # Contributors
 * [Abdurro'uf](https://aabdurrouf.github.io/) - For any inquiry, please send email to fabdurr1@jhu.edu 
