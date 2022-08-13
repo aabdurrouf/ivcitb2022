@@ -62,21 +62,11 @@ cd ../piXedfit_sedfit
 * Step4_SEDfitting_with_piXedfit_derive_global_properties.ipynb
 
 ### Analysis of JWST ERO data SMACS 0723
-```
-cd ../../ERO_SMACS0723
-```
-* Step1
-* Step2
-```
-cd eazy_photoz
-```
-* Step3
-```
-cd ../piXedfit_sedfit
-```
+
+* Step1_check_images_and_catalogs.ipynb
+* Step2_PSF_matching_and_make_cutout_images.ipynb
 
 # Contributors
-* Main contributor: [Abdurro'uf](https://aabdurrouf.github.io/) - For any inquiry, please send email to fabdurr1@jhu.edu 
-* [Takahiro Morishita](https://github.com/mtakahiro) - providing empirical PSFs of JWST/NIRCam and HST for SMACS 0723
+* [Abdurro'uf](https://aabdurrouf.github.io/) - For any inquiry, please send email to fabdurr1@jhu.edu 
 
 
