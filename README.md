@@ -36,7 +36,7 @@ cd <desired_dir>
 git clone https://github.com/aabdurrouf/ivcitb2022.git
 ```
 * Download PSF matching **kernels** from https://drive.google.com/file/d/1t3aBZ1tj8DOlLbfZMD85Gd1SuW8KE871/view?usp=sharing and put the files into `ivcitb2022/kernels/` directory
-* Download CEERS simulated NIRCam Images from https://drive.google.com/file/d/159tKQlbkaWKH4MRJwrBX2MnBLc_SSiXW/view?usp=sharing and put the files into `ivcitb2022/CEERS/` directory and then decompress it.
+* Download CEERS simulated NIRCam Images from https://drive.google.com/file/d/1Fc8PRTzhlqIrPac63OeFlUVAoOViyTbk/view?usp=sharing and put the files into `ivcitb2022/CEERS/` directory and then decompress it.
 * Download JWST and HST images of SMACS 0723. Follow the instruction at https://github.com/aabdurrouf/ivcitb2022/tree/main/ERO_SMACS0723. You can run the download script (`download.sh`) inside `ivcitb2022/ERO_SMACS0723/data` directory. 
 
 ## Going Through the Tutorials
