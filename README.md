@@ -65,6 +65,13 @@ cd ../piXedfit_sedfit
 
 * Analysis_ERO_SMACS0723.ipynb
 
+
+# Some useful links
+* [JWST User Documentation](https://jwst-docs.stsci.edu/)
+* [JWST Science Calibration Pipeline](https://jwst-pipeline.readthedocs.io/en/latest/jwst/introduction.html)
+* [General Observer Programs in Cycle 1](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go)
+* [Director’s Discretionary Early Release Science Programs](https://www.stsci.edu/jwst/science-execution/approved-ers-programs)
+
 # Contributors
 * [Abdurro'uf](https://aabdurrouf.github.io/) - For any inquiry, please send email to fabdurr1@jhu.edu 
 
