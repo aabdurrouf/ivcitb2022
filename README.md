@@ -4,7 +4,7 @@ This repository contains materials for a tutorial on an analysis of the JWST NIR
 
 ## What we will learn
 In this tutorial, we will learn the following skills
-* Point Spread Function matching of imaging data across multiple bands
+* Point Spread Function (PSF) matching of imaging data across multiple bands
 * Creating color RGB images
 * Detection and source extraction of astronomical objects in an image
 * Aperture photometry and extracting spectral energy distributions (SEDs) of the galaxies in the field
